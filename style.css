@@ -17,7 +17,7 @@
     width: 105px;
     height: 60px;
 }
-ul{
+.ul{
     display: flex;
     justify-content: space-between;
     gap: 48px;
@@ -122,9 +122,37 @@ i{
 .cart-img{
     width: 283px;
 }
-
-
-
+.plant-lover{
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+}
+.badge{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    bottom: 728px;
+    right: -380px;
+}
+.lover-title{
+    font-size: 50px;
+    font-weight: 700;
+    position: relative;
+    right: 127px;   
+}
+.list{
+    list-style:disc;
+    color:#00000080 ;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.ol{
+    position: relative;
+    right: 127px;
+    width: 400px;
+}
 
 
 
