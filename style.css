@@ -3,13 +3,15 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+.header{
+    margin-left: 150px;
+    margin-right: 150px;
+    align-items: center;
+}
 .main-nav{
     display: flex;
     justify-content: space-between;
     margin-top: 35px;
-    margin-left: 150px;
-    margin-right: 150px;
-    align-items: center;
 }
 .logo{
     width: 105px;
@@ -48,11 +50,25 @@ i{
     bottom: -2px;
     margin: 0;
 }
-
-.hide{
-    
+.banner{
+    margin-top: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-
+.banner-title{
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0;  
+}
+.banner-info{
+    font-weight: 400;
+    font-size: 20px;
+    color: #00000080;
+}
+.banner-img{
+    width: 480px;
+}
 
 
 
