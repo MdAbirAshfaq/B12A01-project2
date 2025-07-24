@@ -415,6 +415,7 @@ i{
 .join{
     width: 100%;
     margin: 0;
+    margin-bottom: 50px;
     height: 250px;
     justify-content: center;
 }
@@ -431,8 +432,12 @@ i{
 .sub{
     margin: 0;
 }
-
-
+.flex0{
+    flex-direction: column;
+}
+.description{
+    padding-left: 10px;
+}
 
 
 
