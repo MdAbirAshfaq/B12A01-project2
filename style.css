@@ -291,31 +291,73 @@ i{
     .cart-img{
     width: 190px;
     }
-.lover-title{
+    .lover-title{
     font-size: 28px;
     position:relative;
     right: -9px;
     margin-top: 10px;
     width: 350px;
-}
-.ol{
+    }
+    .ol{
     position: absolute;
     right: auto ;
     margin: 0;
-    width: 350px;
-}
-.plant-lover{
+    }
+    .plant-lover{
     margin-left: 8px;
     margin-right: 8px;
     margin-top: 40px;
     display:inline;
-}
-.lover-img{
+    }   
+    .lover-img{
     width: 396px;
     height: 360px;
     margin-left: 8px;
     padding-left: 2px;
-}
+    }
+.deals{
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 350px;
 
+}    
+.deals-title{
+    font-size: 27px;
+    margin-left: 28px;
+}
+.deals-info{    
+    font-size: 15px;
+    width: 350px;
+    margin-left: 28px;
+}
+.flex{
+    flex-direction: column;
+}
+.bg-img1{
+    width: 350px;
+    height: 202px;
+    margin-left: 8px;
+    margin-top: 12px;
+    margin-bottom: 30px;
+}
+.bg-img2{
+    width: 350px;
+    height: 202px;
+    margin-left: 8px;
+    margin-bottom: 0;
+}
+.bg-img3{
+    width: 350px;
+    height: 202px;
+    margin-left: 8px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.sales , .sales1 {
+    font-size: 25px;
+}
+.buy, .buy1{
+    font-size: 18px;
+}
 
 }
